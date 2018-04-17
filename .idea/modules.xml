@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wumei.iml" filepath="$PROJECT_DIR$/wumei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wumei-controller/wumei-controller.iml" filepath="$PROJECT_DIR$/wumei-controller/wumei-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wumei-service/wumei-service.iml" filepath="$PROJECT_DIR$/wumei-service/wumei-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wumei-util/wumei-util.iml" filepath="$PROJECT_DIR$/wumei-util/wumei-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wumei-web/wumei-web.iml" filepath="$PROJECT_DIR$/wumei-web/wumei-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wumei-web:war">
+    <output-path>$PROJECT_DIR$/wumei-web/target</output-path>
+    <root id="archive" name="wumei-web.war">
+      <element id="artifact" artifact-name="wumei-web:war exploded" />
+    </root>
+  </artifact>
+</component>

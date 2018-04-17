@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="wumei-web:war exploded">
+    <output-path>$PROJECT_DIR$/wumei-web/target/wumei-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wumei-web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="wumei-controller-1.0.jar">
+            <element id="module-output" name="wumei-controller" />
+          </element>
+          <element id="archive" name="wumei-service-1.0.jar">
+            <element id="module-output" name="wumei-service" />
+          </element>
+          <element id="archive" name="wumei-1.0.jar">
+            <element id="module-output" name="wumei" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/wumei-web/target/wumei-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="wumei-web/web/Web" />
+    </root>
+  </artifact>
+</component>
